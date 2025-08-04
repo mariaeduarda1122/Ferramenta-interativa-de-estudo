@@ -1,14 +1,14 @@
 perguntas js
 criaCartao(
-    'Sustentabilidade e moda consciente',
-    'Quais são as vantagens de escolher roupas feitas de materiais orgânicos?',
-    'Como a moda consciente ajuda o meio ambiente?'
+    'Sustentabilidade',
+    'Por que é importante cuidar do meio ambiente?',
+    'Como podemos reduzir o uso de plástico?'
 )
 
 criaCartao(
-    'Estilo com propósito',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Cuidando do planeta hoje para um futuro melhor',
+    'O que podemos fazer na escola ou em casa para cuidar do planeta?',
+    'Como plantar árvores ajuda o futuro?'
 )
 
 criaCartao(
