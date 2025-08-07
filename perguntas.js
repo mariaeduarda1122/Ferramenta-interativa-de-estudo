@@ -6,7 +6,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Cuidando do planeta hoje para um futuro melhor',
+    'TDH',
     'O que podemos fazer na escola ou em casa para cuidar do planeta?',
     'Como plantar árvores ajuda o futuro?'
 )
