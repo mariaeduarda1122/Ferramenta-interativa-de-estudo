@@ -1,7 +1,7 @@
 criaCartao(
-    'Sustentabilidade',
-    'Por que é importante cuidar do meio ambiente?',
-    'Como podemos reduzir o uso de plástico?'
+    'O que é o TDAH?',
+    'O TDAH é um transtorno neuropsiquiátrico que causa desatenção, hiperatividade e impulsividade, afetando a vida diária.',
+    ''
 )
 
 criaCartao(
