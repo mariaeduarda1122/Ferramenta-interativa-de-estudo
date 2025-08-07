@@ -1,6 +1,6 @@
 criaCartao(
-    'TDH'
-    'O que é o TDAH?',
+    'TDH',
+    'O que é TDH?',
     'O TDAH é um transtorno neuropsiquiátrico que causa desatenção, hiperatividade e impulsividade, afetando a vida diária.',
     
 )
