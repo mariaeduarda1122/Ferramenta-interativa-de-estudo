@@ -1,4 +1,3 @@
-perguntas js
 criaCartao(
     'Sustentabilidade',
     'Por que é importante cuidar do meio ambiente?',
