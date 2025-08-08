@@ -6,19 +6,21 @@ criaCartao(
 )
 
 criaCartao(
-    'TDH',
-    'O que podemos fazer na escola ou em casa para cuidar do planeta?',
-    'Como plantar árvores ajuda o futuro?'
+    'Sintomas',
+    'Quais são os principais sintomas do TDAH?',
+    'Os principais sintomas incluem dificuldade de atenção, hiperatividade e impulsividade.'
+
+
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Afetados',
+    'O TDAH afeta crianças, adultos ou ambos?',
+    'Ele pode afetar tanto crianças quanto adultos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tratamento',
+    'Existem tratamentos para o TDAH?',
+    'Sim, há tratamentos que podem ajudar, como medicação, terapia e mudanças no estilo de vida.'
 )
